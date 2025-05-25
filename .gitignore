@@ -1,0 +1,16 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs
+env/
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+*.swp
